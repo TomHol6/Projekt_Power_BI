@@ -1,2 +1,2 @@
 # Projekt_Power_BI
-Final Project Power Engeto 
+Final Project PowerBI Engeto 
